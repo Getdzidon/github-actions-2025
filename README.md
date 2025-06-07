@@ -4,9 +4,6 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Getdzidon_github-actions-2025&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Getdzidon_github-actions-2025)
 
 
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Getdzidon_github-actions-2025&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Getdzidon_github-actions-2025)
-
-
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Getdzidon_github-actions-2025&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Getdzidon_github-actions-2025)
 
 
