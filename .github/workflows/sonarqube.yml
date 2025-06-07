@@ -23,7 +23,7 @@ jobs:
       - name: Run SonarQube Analysis
         run: |
           sonar-scanner \
-            -Dsonar.projectKey=Jomacs-github-actions-25/jomacs-github-actions-25 \
+            -Dsonar.projectKey=Jomacs-github-actions-25_jomacs-github-actions-25 \
             -Dsonar.organization=getdzidon \
             -Dsonar.host.url=https://sonarcloud.io \
             -Dsonar.token=${{ secrets.SONAR_TOKEN }}
